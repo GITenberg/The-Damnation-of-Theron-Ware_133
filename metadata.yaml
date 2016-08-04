@@ -1,0 +1,34 @@
+_repo: The-Damnation-of-Theron-Ware_133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frederic, Harold
+    birthdate: 1856
+    deathdate: 1898
+    gutenberg_agent_id: '83'
+    url: http://www.gutenberg.org/2009/agents/83
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
+description: '"Through his involvement with three women, Theron Ware, a small-town
+  Methodist minister, finds that his abstract, absolute notions about himself and
+  his world lead to doubt and confusion. Uncertain in his faith, Ware is alone and
+  unprepared to meet the moral, scientific, and aesthetic ambiguities of the new [twentieth]
+  century."--P. [4] of cover.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belief and doubt -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Methodists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+title: The Damnation of Theron Ware
+url: http://www.gutenberg.org/ebooks/133
