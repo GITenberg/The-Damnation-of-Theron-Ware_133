@@ -1,5 +1,8 @@
 _repo: The-Damnation-of-Theron-Ware_133
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frederic, Harold
@@ -13,6 +16,8 @@ description: '"Through his involvement with three women, Theron Ware, a small-to
   his world lead to doubt and confusion. Uncertain in his faith, Ware is alone and
   unprepared to meet the moral, scientific, and aesthetic ambiguities of the new [twentieth]
   century."--P. [4] of cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/133#The-Damnation-of-Theron-Ware
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
